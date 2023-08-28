@@ -1,4 +1,4 @@
-## Project: Toronto's Traffic Accident Analysis
+## Project: Toronto Traffic Accident Analysis
 
 ### Context
 Toronto is a metropolis with a huge volume of traffic.  Accidents take place everyday. Studying underlying patterns that connect the traffic collisions with the surroundings (weather, time, road conditions, etc.) can provide us with better insights to help reduce the numbers of accidents.
